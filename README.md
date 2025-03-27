@@ -1,7 +1,11 @@
 # Anomaly Extractor<br>
 
 An algorithm to automatically vectorize anomalies caused by archaeological features in magnetograms and calculate a number of statistical parameters.<br/>
-The tool is developed by the German Archaeological Institute.
+The tool is being developed by the German Archaeological Institute.<p/>
+**See an article about the tool:<br/>**
+Goldmann, L. and Komp, R. (2025), The Anomaly Extractor—An Open-Source GIS-Tool for Object-Based Image Analyses of Large-Scale Geomagnetic Data.<br/>
+Archaeological Prospection.<br/>
+https://doi.org/10.1002/arp.1987
 ## Installation
   In QGIS open *Processing Toolbox* and choose *Add Model to Toolbox ...*<br/>
   Tested QGIS Version: 3.34.8<br>
